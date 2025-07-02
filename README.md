@@ -19,4 +19,5 @@ Untuk mengatasi masalah ini, proyek ini menggunakan pendekatan machine learning 
 Melalui implementasi model machine learning ini, "Seoul Living" bertujuan untuk meningkatkan akurasi penentuan harga, mengoptimalkan strategi penjualan dan pemasaran, serta pada akhirnya meningkatkan keuntungan perusahaan.
 
 Link persentasi : https://drive.google.com/file/d/1SYhoKDn3vG6a9jCvyfCTUFt5YV7L5bW0/view?usp=sharing
+
 Code Ipynb, model dalam bentuk pickle dan data pendukunglain telah di cantumkan di atas
