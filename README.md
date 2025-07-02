@@ -1,4 +1,4 @@
-# Pengantar Proyek
+# Project Introduction
 
 Proyek ini berfokus pada penerapan machine learning untuk merevolusi proses valuasi dan segmentasi jenis apartemen di pasar real estat Korea Selatan, khususnya untuk perusahaan "Seoul Living". Dengan dinamika pasar properti yang terus berkembang, penentuan harga apartemen yang akurat dan klasifikasi kategori kemewahan menjadi semakin kompleks dan rentan terhadap analisis manual yang memakan waktu dan bias.
 
